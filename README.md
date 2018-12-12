@@ -1,2 +1,2 @@
 # python_bot_supreme
-Schoo project python bot
+School project python bot
